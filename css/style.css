@@ -1,0 +1,39 @@
+    h1{
+    color:orangered;
+    padding: 20 px;
+    border: 10px red double;
+    clear:right;
+    text-align: center;
+    background-color: pink
+     }
+    
+     *{ font-family:Arial, Helvetica, sans-serif;
+        background-color: greenyellow;
+        box-sizing: border-box;
+        padding: 5px;
+        margin: 2px;
+      } 
+        .recipe p{ color: #a52a2a;
+        margin-left: 15px;
+        font-style: italic;
+
+    }
+        #Serving-spa { color: red;
+        text-align: center;
+        border-bottom-left-radius: 2px solid darkred ;
+        padding-bottom: 10px;
+
+    }  
+       ol>li{ color: blueviolet;
+        text-decoration: underline;
+        margin-top:10px;
+       }
+
+       .intro-recipe p{ color: #a52a2a;
+    
+       }
+
+       .ingredients{ background-color: yellow;
+        font-weight: bold;
+
+       }
